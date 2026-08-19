@@ -1,0 +1,9 @@
+---
+title: "Rośliny owadożerne"
+listing:
+  contents: "*.qmd"
+  include:
+    categories: ["Rośliny owadożerne"]
+  sort: "title"
+  type: grid
+---

@@ -1,0 +1,8 @@
+---
+title: "Wszystkie rośliny"
+listing:
+  contents: "*.qmd"
+  sort: "title"
+  type: table
+  fields: [title, scientific_name, family, categories]
+---
