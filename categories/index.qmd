@@ -2,7 +2,7 @@
 title: "Kategorie"
 ---
 
-Tutaj znajdują się rośliny pogrupowane według działów.
+Poniższy podział roślin na kategorie ma przede wszystkim charakter praktyczny i służy łatwiejszemu poruszaniu się po katalogu. Kategorie nie zawsze odzwierciedlają pokrewieństwo systematyczne roślin – część z nich utworzono na podstawie podobnego sposobu uprawy, wyglądu lub zastosowania
 
 - [Rośliny owadożerne](carnivorous.qmd)
 - [Trawy i bambusy](bamboo.qmd)
