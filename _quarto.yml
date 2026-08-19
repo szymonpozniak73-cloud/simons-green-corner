@@ -5,8 +5,9 @@ project:
     - images/
 
 website:
-  title: "Simon’s Green Corner"
+  title: "Simon's Green Corner"
   navbar:
+    title: false
     logo: images/logo.png
     logo-alt: "Simon’s Green Corner"
     right:
