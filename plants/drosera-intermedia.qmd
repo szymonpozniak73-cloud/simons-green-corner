@@ -2,7 +2,7 @@
 title: "Rosiczka pośrednia"
 scientific_name: "Drosera intermedia"
 categories: ["Rośliny owadożerne"]
-# image: "../images/plants/drosera-intermedia.jpg"
+image: "../images/plants/drosera-intermedia.jpg"
 ---
 
 ![Rosiczka pośrednia](../images/plants/drosera-intermedia.jpg)
