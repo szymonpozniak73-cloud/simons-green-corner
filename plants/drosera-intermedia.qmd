@@ -7,7 +7,7 @@ carnivorous: true
 image: "../images/plants/drosera-intermedia.jpg"
 ---
 
-![Rosiczka pośrednia (*drosera intermedia*), fot. z dnia 27 lipca 2026 r.](../images/plants/drosera-intermedia.jpg)
+![Rosiczka pośrednia (*drosera intermedia*), fot. z dnia 4 sierpnia 2026 r.](../images/plants/drosera-intermedia.jpg)
 
 ## Opis
 
