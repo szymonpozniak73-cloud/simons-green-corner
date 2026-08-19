@@ -1,9 +1,9 @@
 ---
 title: "Rośliny owadożerne"
 listing:
-  contents: "*.qmd"
+  contents: "../plants/*.qmd"
   include:
-    categories: ["Rośliny owadożerne"]
+    carnivorous: true
   sort: "title"
   type: grid
 ---

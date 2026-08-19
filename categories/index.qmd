@@ -1,0 +1,7 @@
+---
+title: "Kategorie"
+---
+
+Tutaj znajdują się rośliny pogrupowane według działów.
+
+- [Rośliny owadożerne](carnivorous.qmd)

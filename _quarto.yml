@@ -9,12 +9,12 @@ website:
   navbar:
     title: false
     logo: images/logo.png
-    logo-alt: "Simon’s Green Corner"
+    logo-alt: "Simon's Green Corner"
     right:
       - href: index.qmd
         text: Strona główna
-      - href: plants/carnivorous.qmd
-        text: Rośliny owadożerne
+      - href: categories/index.qmd
+        text: Kategorie
       - href: plants/index.qmd
         text: Wszystkie rośliny
 

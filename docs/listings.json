@@ -2,12 +2,11 @@
   {
     "listing": "/plants/index.html",
     "items": [
-      "/plants/drosera-intermedia.html",
-      "/plants/carnivorous.html"
+      "/plants/drosera-intermedia.html"
     ]
   },
   {
-    "listing": "/plants/carnivorous.html",
+    "listing": "/categories/carnivorous.html",
     "items": [
       "/plants/drosera-intermedia.html"
     ]

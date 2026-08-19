@@ -4,14 +4,7 @@
     "href": "plants/index.html",
     "title": "Wszystkie rośliny",
     "section": "",
-    "text": "Sortuj według\n      Domyślnie\n      \n        Tytuł\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTytuł\n\n\n\nscientific_name\n\n\n\nfamily\n\n\n\nKategorie\n\n\n\n\n\n\n\n\nRosiczka pośrednia\n\n\nDrosera intermedia\n\n\n \n\n\nRośliny owadożerne\n\n\n\n\n\n\nRośliny owadożerne\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nBrak pasujących"
-  },
-  {
-    "objectID": "plants/carnivorous.html",
-    "href": "plants/carnivorous.html",
-    "title": "Rośliny owadożerne",
-    "section": "",
-    "text": "Rosiczka pośrednia\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrak pasujących"
+    "text": "Sortuj według\n      Domyślnie\n      \n        Tytuł\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTytuł\n\n\n\nscientific_name\n\n\n\nfamily\n\n\n\nKategorie\n\n\n\n\n\n\n\n\nRosiczka pośrednia\n\n\nDrosera intermedia\n\n\n \n\n\nRośliny owadożerne\n\n\n\n\n\n\nBrak pasujących"
   },
   {
     "objectID": "index.html",
@@ -19,6 +12,20 @@
     "title": "Simon’s Green Corner",
     "section": "",
     "text": "Simon’s Green Corner\nTo mój katalog roślin: miejsce na zdjęcia, obserwacje z uprawy, wymagania poszczególnych gatunków i prywatne notatki.\nStrona powstaje jako zielnik domowy: trochę katalog, trochę dziennik uprawy."
+  },
+  {
+    "objectID": "categories/carnivorous.html",
+    "href": "categories/carnivorous.html",
+    "title": "Rośliny owadożerne",
+    "section": "",
+    "text": "Rosiczka pośrednia\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrak pasujących"
+  },
+  {
+    "objectID": "categories/index.html",
+    "href": "categories/index.html",
+    "title": "Kategorie",
+    "section": "",
+    "text": "Tutaj znajdują się rośliny pogrupowane według działów.\n\nRośliny owadożerne"
   },
   {
     "objectID": "plants/drosera-intermedia.html",

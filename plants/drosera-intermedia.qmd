@@ -2,6 +2,7 @@
 title: "Rosiczka pośrednia"
 scientific_name: "Drosera intermedia"
 categories: ["Rośliny owadożerne"]
+carnivorous: true
 image: "../images/plants/drosera-intermedia.jpg"
 ---
 
