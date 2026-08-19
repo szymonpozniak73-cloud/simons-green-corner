@@ -1,11 +1,14 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - images/
 
 website:
   title: "Simon’s Green Corner"
-  logo: images/logo.png
   navbar:
+    logo: images/logo.png
+    logo-alt: "Simon’s Green Corner"
     right:
       - href: index.qmd
         text: Strona główna
