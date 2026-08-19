@@ -2,9 +2,4 @@
 title: "Simon’s Green Corner"
 ---
 
-# Simon’s Green Corner
-
-To mój katalog roślin: miejsce na zdjęcia, obserwacje z uprawy, wymagania
-poszczególnych gatunków i prywatne notatki.
-
-Strona powstaje jako zielnik domowy: trochę katalog, trochę dziennik uprawy.
+Jakiś opis po co to wszystko
