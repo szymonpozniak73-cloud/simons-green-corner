@@ -5,6 +5,7 @@ listing:
   sort: "title"
   type: table
   fields: [title, scientific_name, family, categories]
+  sort-ui: [title, scientific_name, family, categories]
   field-display-names:
     title: "Nazwa polska"
     scientific_name: "Nazwa naukowa"

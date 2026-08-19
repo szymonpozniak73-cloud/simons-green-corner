@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-scientific_name','listing-family','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-scientific_name','listing-family','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-title","listing-author"],
     };
@@ -215,6 +215,15 @@ window.Quarto = {
       <option value="listing-title-sort" data-direction="asc">
         Nazwa polska
       </option>
+      <option value="listing-scientific_name" data-direction="asc">
+        Nazwa naukowa
+      </option>
+      <option value="listing-family" data-direction="asc">
+        Rodzina
+      </option>
+      <option value="listing-categories" data-direction="asc">
+        Kategoria
+      </option>
     </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
@@ -231,15 +240,15 @@ window.Quarto = {
 </th>
 
 <th>
-Nazwa naukowa
+<a class="sort" data-sort="listing-scientific_name" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Nazwa naukowa</a>
 </th>
 
 <th>
-Rodzina
+<a class="sort" data-sort="listing-family" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Rodzina</a>
 </th>
 
 <th>
-Kategoria
+<a class="sort" data-sort="listing-categories" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Kategoria</a>
 </th>
 
 </tr>
