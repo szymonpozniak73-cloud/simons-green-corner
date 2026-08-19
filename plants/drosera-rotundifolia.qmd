@@ -6,7 +6,7 @@ categories: ["Rośliny owadożerne"]
 tags: ["zimujące"]
 carnivorous: true
 tag_zimujace: true
-# image: "../images/plants/drosera-rotundifolia.jpg"
+image: "../images/plants/drosera-rotundifolia.jpg"
 ---
 
 ::: {.plant-tags}
