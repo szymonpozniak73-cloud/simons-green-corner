@@ -9,8 +9,9 @@ tag_zimujace: true
 # image: "../images/plants/drosera-rotundifolia.jpg"
 ---
 
- {.plant-tags}
+::: {.plant-tags}
 [Zimujące](../tags/zimujace.qmd)
+:::
 
 ![Rosiczka rotundifolia](../images/plants/drosera-rotundifolia.jpg)
 

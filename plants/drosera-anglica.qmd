@@ -9,8 +9,9 @@ tag_zimujace: true
 # image: "../images/plants/drosera-anglica.jpg"
 ---
 
- {.plant-tags}
+::: {.plant-tags}
 [Zimujące](../tags/zimujace.qmd)
+:::
 
 ![Rosiczka długolistna](../images/plants/drosera-anglica.jpg)
 
