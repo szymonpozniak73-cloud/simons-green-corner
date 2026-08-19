@@ -3,7 +3,9 @@ title: "Rosiczka okrągłolistna"
 scientific_name: "Drosera rotundifolia"
 family: Droseraceae
 categories: ["Rośliny owadożerne"]
+tags: ["zimujące"]
 carnivorous: true
+tag_zimujace: true
 # image: "../images/plants/drosera-rotundifolia.jpg"
 ---
 

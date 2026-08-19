@@ -1,0 +1,9 @@
+---
+title: "Zimujące"
+listing:
+  contents: "../plants/*.qmd"
+  include:
+    tag_zimujace: true
+  sort: "title"
+  type: grid
+---

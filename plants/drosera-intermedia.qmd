@@ -3,7 +3,9 @@ title: "Rosiczka pośrednia"
 scientific_name: "Drosera intermedia"
 family: Droseraceae
 categories: ["Rośliny owadożerne"]
+tags: ["zimujące"]
 carnivorous: true
+tag_zimujace: true
 image: "../images/plants/drosera-intermedia.jpg"
 ---
 

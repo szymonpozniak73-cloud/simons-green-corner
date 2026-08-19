@@ -3,7 +3,9 @@ title: "Rosiczka długolistna"
 scientific_name: "Drosera anglica"
 family: Droseraceae
 categories: ["Rośliny owadożerne"]
+tags: ["zimujące"]
 carnivorous: true
+tag_zimujace: true
 # image: "../images/plants/drosera-anglica.jpg"
 ---
 
