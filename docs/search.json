@@ -4,7 +4,35 @@
     "href": "plants/index.html",
     "title": "Wszystkie rośliny",
     "section": "",
-    "text": "Sortuj według\n      Domyślnie\n      \n        Tytuł\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTytuł\n\n\n\nscientific_name\n\n\n\nfamily\n\n\n\nKategorie\n\n\n\n\n\n\n\n\nRosiczka pośrednia\n\n\nDrosera intermedia\n\n\nDroseraceae\n\n\nRośliny owadożerne\n\n\n\n\n\n\nBrak pasujących"
+    "text": "Sortuj według\n      Domyślnie\n      \n        Tytuł\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTytuł\n\n\n\nscientific_name\n\n\n\nfamily\n\n\n\nKategorie\n\n\n\n\n\n\n\n\nRosiczka długolistna\n\n\nDrosera anglica\n\n\nDroseraceae\n\n\nRośliny owadożerne\n\n\n\n\n\n\nRosiczka okrągłolistna\n\n\nDrosera rotundifolia\n\n\nDroseraceae\n\n\nRośliny owadożerne\n\n\n\n\n\n\nRosiczka pośrednia\n\n\nDrosera intermedia\n\n\nDroseraceae\n\n\nRośliny owadożerne\n\n\n\n\n\n\nBrak pasujących"
+  },
+  {
+    "objectID": "plants/drosera-intermedia.html",
+    "href": "plants/drosera-intermedia.html",
+    "title": "Rosiczka pośrednia",
+    "section": "",
+    "text": "Rosiczka pośrednia (drosera intermedia), fot. z dnia 4 sierpnia 2026 r."
+  },
+  {
+    "objectID": "plants/drosera-intermedia.html#opis",
+    "href": "plants/drosera-intermedia.html#opis",
+    "title": "Rosiczka pośrednia",
+    "section": "Opis",
+    "text": "Opis\nKrótki opis rośliny, jej wyglądu, pochodzenia i cech szczególnych."
+  },
+  {
+    "objectID": "plants/drosera-intermedia.html#wymagania",
+    "href": "plants/drosera-intermedia.html#wymagania",
+    "title": "Rosiczka pośrednia",
+    "section": "Wymagania",
+    "text": "Wymagania\nŚwiatło, podłoże, podlewanie, wilgotność i temperatura."
+  },
+  {
+    "objectID": "plants/drosera-intermedia.html#notatki",
+    "href": "plants/drosera-intermedia.html#notatki",
+    "title": "Rosiczka pośrednia",
+    "section": "Notatki",
+    "text": "Notatki\nDaty przesadzenia, kwitnienia, problemy, regeneracja, nowe zdjęcia."
   },
   {
     "objectID": "index.html",
@@ -39,7 +67,7 @@
     "href": "categories/carnivorous.html",
     "title": "Rośliny owadożerne",
     "section": "",
-    "text": "Rosiczka pośrednia\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrak pasujących"
+    "text": "Rosiczka długolistna\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRosiczka okrągłolistna\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRosiczka pośrednia\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrak pasujących"
   },
   {
     "objectID": "categories/index.html",
@@ -49,30 +77,58 @@
     "text": "Tutaj znajdują się rośliny pogrupowane według działów.\n\nRośliny owadożerne"
   },
   {
-    "objectID": "plants/drosera-intermedia.html",
-    "href": "plants/drosera-intermedia.html",
-    "title": "Rosiczka pośrednia",
+    "objectID": "plants/drosera-anglica.html",
+    "href": "plants/drosera-anglica.html",
+    "title": "Rosiczka długolistna",
     "section": "",
-    "text": "Rosiczka pośrednia (drosera intermedia), fot. z dnia 4 sierpnia 2026 r."
+    "text": "Rosiczka długolistna"
   },
   {
-    "objectID": "plants/drosera-intermedia.html#opis",
-    "href": "plants/drosera-intermedia.html#opis",
-    "title": "Rosiczka pośrednia",
+    "objectID": "plants/drosera-anglica.html#opis",
+    "href": "plants/drosera-anglica.html#opis",
+    "title": "Rosiczka długolistna",
     "section": "Opis",
     "text": "Opis\nKrótki opis rośliny, jej wyglądu, pochodzenia i cech szczególnych."
   },
   {
-    "objectID": "plants/drosera-intermedia.html#wymagania",
-    "href": "plants/drosera-intermedia.html#wymagania",
-    "title": "Rosiczka pośrednia",
+    "objectID": "plants/drosera-anglica.html#wymagania",
+    "href": "plants/drosera-anglica.html#wymagania",
+    "title": "Rosiczka długolistna",
     "section": "Wymagania",
     "text": "Wymagania\nŚwiatło, podłoże, podlewanie, wilgotność i temperatura."
   },
   {
-    "objectID": "plants/drosera-intermedia.html#notatki",
-    "href": "plants/drosera-intermedia.html#notatki",
-    "title": "Rosiczka pośrednia",
+    "objectID": "plants/drosera-anglica.html#notatki",
+    "href": "plants/drosera-anglica.html#notatki",
+    "title": "Rosiczka długolistna",
+    "section": "Notatki",
+    "text": "Notatki\nDaty przesadzenia, kwitnienia, problemy, regeneracja, nowe zdjęcia."
+  },
+  {
+    "objectID": "plants/drosera-rotundifolia.html",
+    "href": "plants/drosera-rotundifolia.html",
+    "title": "Rosiczka okrągłolistna",
+    "section": "",
+    "text": "Rosiczka rotundifolia"
+  },
+  {
+    "objectID": "plants/drosera-rotundifolia.html#opis",
+    "href": "plants/drosera-rotundifolia.html#opis",
+    "title": "Rosiczka okrągłolistna",
+    "section": "Opis",
+    "text": "Opis\nKrótki opis rośliny, jej wyglądu, pochodzenia i cech szczególnych."
+  },
+  {
+    "objectID": "plants/drosera-rotundifolia.html#wymagania",
+    "href": "plants/drosera-rotundifolia.html#wymagania",
+    "title": "Rosiczka okrągłolistna",
+    "section": "Wymagania",
+    "text": "Wymagania\nŚwiatło, podłoże, podlewanie, wilgotność i temperatura."
+  },
+  {
+    "objectID": "plants/drosera-rotundifolia.html#notatki",
+    "href": "plants/drosera-rotundifolia.html#notatki",
+    "title": "Rosiczka okrągłolistna",
     "section": "Notatki",
     "text": "Notatki\nDaty przesadzenia, kwitnienia, problemy, regeneracja, nowe zdjęcia."
   }

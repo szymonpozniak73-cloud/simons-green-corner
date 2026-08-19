@@ -1,0 +1,22 @@
+---
+title: "Rosiczka długolistna"
+scientific_name: "Drosera anglica"
+family: Droseraceae
+categories: ["Rośliny owadożerne"]
+carnivorous: true
+# image: "../images/plants/drosera-anglica.jpg"
+---
+
+![Rosiczka długolistna](../images/plants/drosera-anglica.jpg)
+
+## Opis
+
+Krótki opis rośliny, jej wyglądu, pochodzenia i cech szczególnych.
+
+## Wymagania
+
+Światło, podłoże, podlewanie, wilgotność i temperatura.
+
+## Notatki
+
+Daty przesadzenia, kwitnienia, problemy, regeneracja, nowe zdjęcia.

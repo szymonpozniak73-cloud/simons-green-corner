@@ -1,0 +1,22 @@
+---
+title: "Rosiczka okrągłolistna"
+scientific_name: "Drosera rotundifolia"
+family: Droseraceae
+categories: ["Rośliny owadożerne"]
+carnivorous: true
+# image: "../images/plants/drosera-rotundifolia.jpg"
+---
+
+![Rosiczka rotundifolia](../images/plants/drosera-rotundifolia.jpg)
+
+## Opis
+
+Krótki opis rośliny, jej wyglądu, pochodzenia i cech szczególnych.
+
+## Wymagania
+
+Światło, podłoże, podlewanie, wilgotność i temperatura.
+
+## Notatki
+
+Daty przesadzenia, kwitnienia, problemy, regeneracja, nowe zdjęcia.
