@@ -1,0 +1,9 @@
+---
+title: "Kaktusy i sukulenty"
+listing:
+  contents: "../plants/*.qmd"
+  include:
+    cacti: true
+  sort: "title"
+  type: grid
+---

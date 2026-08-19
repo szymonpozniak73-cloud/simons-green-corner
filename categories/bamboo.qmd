@@ -1,0 +1,9 @@
+---
+title: "Trawy i bambusy"
+listing:
+  contents: "../plants/*.qmd"
+  include:
+    bamboo: true
+  sort: "title"
+  type: grid
+---

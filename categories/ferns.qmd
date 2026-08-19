@@ -1,0 +1,9 @@
+---
+title: "Paprocie"
+listing:
+  contents: "../plants/*.qmd"
+  include:
+    ferns: true
+  sort: "title"
+  type: grid
+---
