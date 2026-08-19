@@ -7,7 +7,7 @@ carnivorous: true
 image: "../images/plants/drosera-intermedia.jpg"
 ---
 
-![Rosiczka pośrednia](../images/plants/drosera-intermedia.jpg)
+![Rosiczka pośrednia (*drosera intermedia*)](../images/plants/drosera-intermedia.jpg)
 
 ## Opis
 
