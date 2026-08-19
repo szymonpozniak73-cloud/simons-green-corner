@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/plants/index.html",
+    "items": [
+      "/plants/drosera-intermedia.html",
+      "/plants/carnivorous.html"
+    ]
+  },
+  {
+    "listing": "/plants/carnivorous.html",
+    "items": [
+      "/plants/drosera-intermedia.html"
+    ]
+  }
+]

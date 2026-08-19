@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Simon’s Green Corner"
-  logo: images/logo.png
+  # logo: images/logo.png
   navbar:
     right:
       - href: index.qmd

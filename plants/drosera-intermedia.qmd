@@ -1,0 +1,20 @@
+---
+title: "Rosiczka pośrednia"
+scientific_name: "Drosera intermedia"
+categories: ["Rośliny owadożerne"]
+# image: "../images/plants/drosera-intermedia.jpg"
+---
+
+![Rosiczka pośrednia](../images/plants/drosera-intermedia.jpg)
+
+## Opis
+
+Krótki opis rośliny, jej wyglądu, pochodzenia i cech szczególnych.
+
+## Wymagania
+
+Światło, podłoże, podlewanie, wilgotność i temperatura.
+
+## Notatki
+
+Daty przesadzenia, kwitnienia, problemy, regeneracja, nowe zdjęcia.
