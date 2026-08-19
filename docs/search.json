@@ -18,7 +18,7 @@
     "href": "plants/drosera-intermedia.html",
     "title": "Rosiczka pośrednia",
     "section": "",
-    "text": "Rosiczka pośrednia (drosera intermedia), fot. z dnia 4 sierpnia 2026 r."
+    "text": "{.plant-tags} Zimujące"
   },
   {
     "objectID": "plants/drosera-intermedia.html#opis",
@@ -88,7 +88,7 @@
     "href": "plants/drosera-anglica.html",
     "title": "Rosiczka długolistna",
     "section": "",
-    "text": "Rosiczka długolistna"
+    "text": "{.plant-tags} Zimujące"
   },
   {
     "objectID": "plants/drosera-anglica.html#opis",
@@ -116,7 +116,7 @@
     "href": "plants/drosera-rotundifolia.html",
     "title": "Rosiczka okrągłolistna",
     "section": "",
-    "text": "Rosiczka rotundifolia"
+    "text": "{.plant-tags} Zimujące"
   },
   {
     "objectID": "plants/drosera-rotundifolia.html#opis",
